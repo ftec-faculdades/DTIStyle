@@ -1,0 +1,24 @@
+{
+    "name": "ftec-faculdades/dti-style",
+    "description": "Repositório para conteudos com less, css dos Sites da FTEC | Faculdades",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+		"ldap"
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTIStyle",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTIStyle": "src/"
+        }
+    }
+}
